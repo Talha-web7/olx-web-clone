@@ -1,0 +1,115 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+  max-width: 100%; 
+   padding-left: 12%;
+   padding-right: 12%;
+    
+}
+.row1{
+    background-color: white;
+    width: 100%;
+    margin-bottom: 0%;
+    padding: 10px;
+    height: 100%;
+    display: flex;
+    gap: 30px;
+
+}
+.logo{
+    height: 30px;
+    padding-top: 7px;
+}
+.row2{
+    background-color: rgb(243, 235, 235);
+    max-width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.part1{
+    align-content: center;
+}
+.part2{
+    display: flex;
+    gap: 35px;
+    
+
+}
+.part3{
+    display: flex;
+    gap: 30px;
+    margin-right: 50px;
+}
+.img-p{
+    border-radius: 40px;
+}
+.logo2{
+    margin-left: 0%;
+    padding-left: 0%;
+
+}
+.categories{
+    display: flex;
+    gap: 20px;
+    padding: 7px;
+    
+}
+.pro-cat{
+    text-decoration: none;
+    
+    color: rgb(73, 72, 72);;
+}
+.carousel-slide{
+    margin-top: 30px;
+}
+
+
+.All-cat{
+    height: 100%;
+    margin-top: 60px;
+}
+
+.cat-names{
+    display: flex;
+    gap: 75px;
+    padding-bottom: 20px;
+}
+
+.cat-name{
+    width: 80px;
+}
+
+.img-cat{
+    
+    width: 100%;
+    
+}
+.txt-cat{
+    font-weight: bold;
+    margin: 0%;
+    text-align: center;
+    
+}
+
+
+
+
+.product-name{
+    display: flex;
+    justify-content: space-between;
+}
+.p-ka-tag{
+    margin: 0%;
+    padding: 0%;
+    gap: 0px;
+}
+.pro-card{
+    display: flex;
+    gap: 30px;
+}
